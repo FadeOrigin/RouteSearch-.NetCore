@@ -24,7 +24,7 @@ transitablePointCollection.add(pointA);
 transitablePointCollection.add(pointB);  
 transitablePointCollection.add(pointC);  
 transitablePointCollection.add(pointE);  
-//
+//  
 //the shortest route from A to E is A-D-E, but D is unreachable, so algorithm return A-B-C-E instead  
 Explore explore=new Explore(transitablePointCollection,pointA,pointE);  
 Console.WriteLine(explore.getMinDistance());  
