@@ -9,7 +9,7 @@ Point pointA=new Point("pointA");
 Point pointB=new Point("pointB");  
 Point pointC=new Point("pointC");  
 Point pointD=new Point("pointD");  
-Point pointE=new Point("pointE");
+Point pointE=new Point("pointE");  
 //  
 //add route data  
 routeDataManager.addRoute(new Route(pointA,pointB));  
