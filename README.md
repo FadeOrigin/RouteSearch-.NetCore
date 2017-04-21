@@ -29,5 +29,5 @@ transitablePointCollection.add(pointE);
 Explore explore=new Explore(transitablePointCollection,pointA,pointE);  
 Console.WriteLine(explore.getMinDistance());  
 
-**Other version**  
+**Other version**  
 Java:https://github.com/FadeOrigin/RouteSearch-Java
