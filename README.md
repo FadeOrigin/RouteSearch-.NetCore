@@ -20,7 +20,7 @@ routeDataManager.addRoute(new Route(pointD,pointE));
 //  
 //add reachable point data, notice that pointD is unreachable now  
 List<Point> transitablePointCollection=new List<Point>();  
-transitablePointCollection.Add(pointA);  
+transitablePointCollection.Add(pointA);  
 transitablePointCollection.Add(pointB);  
 transitablePointCollection.Add(pointC);  
 transitablePointCollection.Add(pointE);  
